@@ -1,5 +1,5 @@
 
-# Decoding the Mind through the Pen: A Machine Learning Approach to Handwriting-Based Psychological Assessment
+# HBPA: A Machine Learning Approach to Handwriting-Based Psychological Assessment
 
 ## Overview
 
