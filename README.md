@@ -24,7 +24,7 @@ This project automates graphological analysis using machine learning to predict 
    ```
 2. Navigate to the project directory:
    ```bash
-   cd handwriting-analysis
+   cd HBPA
    ```
 3. Install the required packages:
    ```bash
@@ -36,10 +36,9 @@ This project automates graphological analysis using machine learning to predict 
 1. Ensure your handwriting samples are in the `data/samples` directory.
 2. Run the analysis script:
    ```bash
-   python analyze.py
+   python train_predict_v3.py
    ```
-3. The results will be output to the `results` directory.
-
+3. The results will be displayed in the terminal.
 ## Dataset
 
 ### Data Acquisition
@@ -90,7 +89,7 @@ The system predicts eight key psychological attributes:
 
 Screenshots of actual terminal output of the model:
 
-![Results Screenshot](path/to/results_screenshot.png)
+![Terminal Screenshots](images/output1.png)
 
 ## Future Scope
 
