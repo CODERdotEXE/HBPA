@@ -90,8 +90,10 @@ The system predicts eight key psychological attributes:
 Screenshots of actual terminal output of the model along with it's respective handwriting sample:
 
 ![Terminal Screenshot](images/output1.png)
-![Terminal Screenshot](images/output2.png)
+*Output 1*
 
+![Terminal Screenshot](images/output2.png)
+*output 2*
 ## Future Scope
 
 ### Development of a User Interface (UI)
