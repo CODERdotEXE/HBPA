@@ -87,9 +87,10 @@ The system predicts eight key psychological attributes:
 
 ## Results
 
-Screenshots of actual terminal output of the model:
+Screenshots of actual terminal output of the model along with it's respective handwriting sample:
 
-![Terminal Screenshots](images/output1.png)
+![Terminal Screenshot](images/output1.png)
+![Terminal Screenshot](images/output2.png)
 
 ## Future Scope
 
