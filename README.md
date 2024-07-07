@@ -58,7 +58,7 @@ Data obtained from the IAM Handwriting Database of Research Group on Computer Vi
 
 - Images are cropped and saved as PNG images with an automatic action script.
 - The width of all the images is 850 pixels, and the height varies according to the content of the handwriting in the image.
-   <img src="images/processeddataset.png" alt="Data sample after Image Pocessing" height="250px">
+<img src="images/processeddataset.png" alt="Data sample after Image Pocessing" height="200px">
 *Data sample after image processing*
 
 ## Features
