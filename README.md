@@ -50,7 +50,7 @@ Data obtained from the IAM Handwriting Database of Research Group on Computer Vi
 - Each handwriting sample is labeled with corresponding psychological traits by manually studying each document.
 - [Dataset URL](https://fki.tic.heia-fr.ch/databases/download-the-iam-handwriting-database)
 
-  ![Dataset sample](images/dataset1.png)
+  <img src="images/dataset1.png" alt="Database Screenshot" height="250px">
 *Sample data from IAM Handwriting Database*
 
 
